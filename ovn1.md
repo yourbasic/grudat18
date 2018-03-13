@@ -2,7 +2,8 @@
 ### Deadline: 29/3 kl 15.00
 
 Samtliga uppgifter på kursen ska lämnas in på ditt Githubkonto på KTH.
-Gör en katalog för hela kursen, och en underkatalog för varje övning,
+Gör en katalog <code>grudat18</code> för hela kursen,
+och en underkatalog <code>ovn1</code> för den här övningen,
 samt (minst) en fil per uppgift.
 Utgå från mallarna i [/grudat18/ovn1/](https://github.com/yourbasic/grudat18/tree/master/ovn1).
 
