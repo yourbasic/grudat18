@@ -25,7 +25,7 @@ class Stack:
 
 # Unit test
 def main():
-	s = Stack()
+	s = Stack() # stack of strings
 	s.push("world!")
 	s.push("Hello, ")
 	assert len(s) == 2
