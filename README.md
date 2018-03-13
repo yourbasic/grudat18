@@ -1,2 +1,3 @@
 # grudat18
-Template for grudat18 exercise submissions
+
+Övningar DD1327 Grundläggande datalogi
