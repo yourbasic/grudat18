@@ -1,4 +1,4 @@
-// Nisse Nilsson, grudat18 uppg 1.2
+// Nisse Nilsson, grudat18 uppg 0.2
 
 package main
 

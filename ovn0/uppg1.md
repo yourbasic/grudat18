@@ -1,4 +1,4 @@
-# Nisse Nilsson, grudat18 uppg 1.1
+# Nisse Nilsson, grudat18 uppg 0.1
 
 ## Sats
 

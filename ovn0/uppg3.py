@@ -1,4 +1,4 @@
-# Nisse Nilsson, grudat18 uppg 1.3
+# Nisse Nilsson, grudat18 uppg 0.3
 
 class Stack:
 	"""This class implements a stack of objects."""
