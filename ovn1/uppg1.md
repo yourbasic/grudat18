@@ -2,7 +2,7 @@
 
 ## Sats
 
-Bevisa att det finns oändliga många primtal.
+Det finns oändliga många primtal.
 
 ## Bevis
 
