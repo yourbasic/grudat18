@@ -1,5 +1,6 @@
 // Nisse Nilsson, grudat18 uppg 1.3
 
+// This package implements a stack of strings.
 package main
 
 import "fmt"
