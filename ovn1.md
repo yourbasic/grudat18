@@ -107,7 +107,7 @@ listan. Jag rekommenderar att du skriver testkoden först.
 
 ## Betyg VG
 
-### Uppgift 1.3
+### 1.3 Mera testning
 
 Det kan vara svårt att testa datastrukturer;
 en metod kan returnera rätt svar men ändå göra fel.
