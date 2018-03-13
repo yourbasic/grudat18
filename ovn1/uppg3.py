@@ -5,6 +5,7 @@ class Stack:
 
 	def __init__(self):
 		"""Construct an empty stack."""
+		# _data[] holds the stack items.
 		self._data = []
 
 	def push(self, item):
