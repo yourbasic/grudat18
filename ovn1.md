@@ -10,7 +10,7 @@ Utgå från mallarna i [/grudat18/ovn0/](https://github.com/yourbasic/grudat18/t
 Du väljer själv vilket av programspråken Python, Go eller Java du vill använda.
 **Observera att all kod på den här kursen ska dokumenteras och testas.**
 
-Vid övningen ska du vara beredd att muntliga presentera och diskutera
+Vid övningen ska du vara beredd att muntligt presentera och diskutera
 dina lösningar och din programkod.
 
 ## Betyg G
@@ -28,12 +28,12 @@ förbundna av pekare. En länkad lista med tre heltal
 <code>[2,&nbsp;2,&nbsp;1]</code> ser ut så här.
 
 
-<pre><tt>     ----------        ----------        ------------
+<pre><code>     ----------        ----------        ------------
     |     |    |      |     |    |      |     |      |
 --->|  2  |  -------->|  2  |  -------->|  1  | null |
     |     |    |      |     |    |      |     |      |
      ----------        ----------        ------------
-</tt></pre>
+</code></pre>
 
 Nullpekaren har många namn: <code>None</code>, <code>nil</code> eller <code>null</code>.
 
