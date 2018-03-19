@@ -15,3 +15,4 @@ Vid övningen ska du vara beredd att muntligt presentera och diskutera
 dina lösningar och din programkod.
 
 - [Övning 1](https://github.com/yourbasic/grudat18/blob/master/ovn1.md)
+- [Övning 2](https://github.com/yourbasic/grudat18/blob/master/ovn2.md)
