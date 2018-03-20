@@ -2,7 +2,6 @@
 ### Deadline: 13/4 kl 10.00
 
 Samtliga uppgifter på kursen ska lämnas in på ditt [Githubkonto på KTH](https://gits-15.sys.kth.se/grudat18).
-
 Gör (minst) en fil per uppgift och lägg filerna i katalogen /grudat18/ovn2.
 Utgå från mallarna i [/grudat18/ovn0/](https://github.com/yourbasic/grudat18/tree/master/ovn0).
 
