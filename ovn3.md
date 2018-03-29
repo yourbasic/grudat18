@@ -30,12 +30,16 @@ i ett statistiskt datamaterial är det värde som förekommer flest gånger.
 Skriv en funktion som beräknar typvärdet för en vektor med heltal.
 Om flera värden är lika vanliga skall funktionen ge det minsta av dem.
 
+Det är fritt fram att använda de datastrukturer och algoritmer
+som finns i standardbiblioteken för Python, Java eller Go.
+
 Tidskomplexiteten för algoritmen ska vara *O*(*n*&nbsp;log&nbsp;*n*).
 
 ### 3.3 Negativt och positivt
 
 Skriv en funktion som ändrar ordningen på en lista med tal så att de negativa talen kommer först.
 Talen behöver inte vara sorterade, du behöver endast samla alla negativa tal för sig.
+
 Algoritmen ska använda högst *O*(1) extra utrymme och du får inte använda någon sorteringsalgoritm.
 
 Använd en **loopinvariant** för att förklara hur koden fungerar.
