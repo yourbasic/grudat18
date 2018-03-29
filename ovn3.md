@@ -17,7 +17,7 @@ dina lösningar och din programkod.
 
 Skriv en rekursiv fakultetsfunktion och bevisa att den är korrekt med hjälp av induktion.
 
-Glöm inte testkoden.
+Utöver beviset ska du som vanligt skriva testkod.
 
 > Beware of bugs in the above code; I have only proved it correct, not tried it.
 
@@ -33,7 +33,7 @@ Om flera värden är lika vanliga skall funktionen ge det minsta av dem.
 Det är fritt fram att använda de datastrukturer och algoritmer
 som finns i standardbiblioteken för Python, Java eller Go.
 
-Tidskomplexiteten för algoritmen ska vara *O*(*n*&nbsp;log&nbsp;*n*).
+Tidskomplexiteten för din algoritm ska vara *O*(*n*&nbsp;log&nbsp;*n*).
 
 ### 3.3 Negativt och positivt
 
