@@ -19,7 +19,7 @@ Skriv en rekursiv fakultetsfunktion och bevisa att den är korrekt med hjälp av
 
 Glöm inte testkoden.
 
-    Beware of bugs in the above code; I have only proved it correct, not tried it.
+> Beware of bugs in the above code; I have only proved it correct, not tried it.
 - Donald Knuth
 
 ### 3.2 Typvärde
