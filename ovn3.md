@@ -13,7 +13,7 @@ dina lösningar och din programkod.
 
 ## Betyg G
 
-### 3.1 Fakultet redux
+### 3.1 Fakultet i repris
 
 Skriv en rekursiv fakultetsfunktion och bevisa att den är korrekt med hjälp av induktion.
 
