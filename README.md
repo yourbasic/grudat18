@@ -1,6 +1,6 @@
 # grudat18
 
-### Övningar DD1327 Grundläggande datalogi
+### Övningar [DD1327](https://www.kth.se/social/course/DD1327/) Grundläggande datalogi
 
 Samtliga uppgifter på kursen ska pushas till repos under
 [organisationen grudat18 på KTH GitHub](https://gits-15.sys.kth.se/grudat18).
