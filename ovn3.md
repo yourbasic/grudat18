@@ -15,9 +15,9 @@ dina lösningar och din programkod.
 
 ### 3.1 Typvärde
 
-Som statistiskt mått på en mängd tal används ibland typvärdet (mode),
-det värde som är mest frekvent (oftast förekommande).
-Skriv en funktion som beräknar typvärdet för en array med heltal.
+[Typvärdet](https://sv.wikipedia.org/wiki/Typv%C3%A4rde) (mode)
+i ett statistiskt datamaterial är det värde som förekommer flest gånger.
+Skriv en funktion som beräknar typvärdet för en vektor med heltal.
 Om flera värden är lika vanliga skall funktionen ge det minsta av dem.
 
 Tidskomplexiteten för algoritmen ska vara *O*(*n*&nbsp;log&nbsp;*n*).
@@ -25,7 +25,7 @@ Tidskomplexiteten för algoritmen ska vara *O*(*n*&nbsp;log&nbsp;*n*).
 ### 3.2 Negativt och positivt
 
 Skriv en funktion som ändrar ordningen på en lista med tal så att de negativa talen kommer först och sedan de positiva.
-Negativa respektive positiva tal behöver inte vara sorterade, du behöver endast samla alla negativa tal för sig.
+Talen behöver inte vara sorterade, du behöver endast samla alla negativa tal för sig.
 Algoritmen ska använda högst *O*(1) extra utrymme och du får inte använda någon sorteringsalgoritm.
 
 Använd en **loopinvariant** för att förklara hur koden fungerar.
