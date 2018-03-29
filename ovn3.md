@@ -34,6 +34,6 @@ Räkna också ut tidskomplexiteten för din algoritm.
 
 ## Betyg VG
 
-För betyg VG ska du göra samma uppgifter som betyg G,
+För betyg VG ska du göra samma uppgifter som för betyg G,
 men med det extra kravet att båda algoritmerna ska ha *O*(*n*) tidskomplexitet.
-Det räcker med förväntad tid, men värstafall går förstås också bra.
+(Det räcker med förväntad tid, men värstafall går förstås också bra.)
