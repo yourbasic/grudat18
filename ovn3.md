@@ -13,7 +13,16 @@ dina lösningar och din programkod.
 
 ## Betyg G
 
-### 3.1 Typvärde
+### 3.1 Fakultet redux
+
+Skriv en rekursiv fakultetsfunktion och bevisa att den är korrekt med hjälp av induktion.
+
+Glöm inte testkoden.
+
+    Beware of bugs in the above code; I have only proved it correct, not tried it.
+- Donald Knuth
+
+### 3.2 Typvärde
 
 [Typvärdet](https://sv.wikipedia.org/wiki/Typv%C3%A4rde) (mode)
 i ett statistiskt datamaterial är det värde som förekommer flest gånger.
@@ -22,7 +31,7 @@ Om flera värden är lika vanliga skall funktionen ge det minsta av dem.
 
 Tidskomplexiteten för algoritmen ska vara *O*(*n*&nbsp;log&nbsp;*n*).
 
-### 3.2 Negativt och positivt
+### 3.3 Negativt och positivt
 
 Skriv en funktion som ändrar ordningen på en lista med tal så att de negativa talen kommer först.
 Talen behöver inte vara sorterade, du behöver endast samla alla negativa tal för sig.
@@ -35,5 +44,5 @@ Räkna också ut tidskomplexiteten för din algoritm.
 ## Betyg VG
 
 För betyg VG ska du göra samma uppgifter som för betyg G,
-men med det extra kravet att **båda algoritmerna** ska ha *O*(*n*) tidskomplexitet.
+men med det extra kravet att algoritmerna i **uppgift 3.2 och 3.3** ska ha *O*(*n*) tidskomplexitet.
 (Det räcker med förväntad tid, men värstafall går förstås också bra.)
