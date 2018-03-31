@@ -1,4 +1,4 @@
-Mallar för uppgifter på DD1327 Grundläggande datalogi.
+## Mallar för uppgifter på DD1327 Grundläggande datalogi.
 
 - Svar på teoriuppgift: [uppg1.md](https://github.com/yourbasic/grudat18/blob/master/ovn0/uppg1.md)
 
