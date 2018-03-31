@@ -19,3 +19,4 @@ Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lös
 
 - [Övning 1](https://github.com/yourbasic/grudat18/blob/master/ovn1.md)
 - [Övning 2](https://github.com/yourbasic/grudat18/blob/master/ovn2.md)
+- [Övning 3](https://github.com/yourbasic/grudat18/blob/master/ovn3.md)
