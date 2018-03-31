@@ -1,4 +1,4 @@
-# Övning 3 grudat18 (EJ KLAR)
+# Övning 3 grudat18
 ### Deadline: 20/4 kl 10.00
 
 Samtliga uppgifter på kursen ska lämnas in på ditt [Githubkonto på KTH](https://gits-15.sys.kth.se/grudat18).
