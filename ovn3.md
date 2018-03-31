@@ -23,7 +23,6 @@ Utöver beviset ska du som vanligt skriva testkod.
 
 &ndash; Donald Knuth
 
-
 ### 3.2 Typvärde
 
 [Typvärdet](https://sv.wikipedia.org/wiki/Typv%C3%A4rde) (mode)
@@ -36,19 +35,16 @@ i ett statistiskt datamaterial är det värde som förekommer flest gånger.
 Det är fritt fram att använda de datastrukturer och algoritmer
 som finns i standardbiblioteken för Python, Java eller Go.
 
-
 ### 3.3 Negativt och positivt
 
 - Skriv en funktion som ändrar ordningen på en vektor med tal så att de negativa talen kommer först.
   Vektorn ska inte sorteras, du behöver endast samla alla negativa tal för sig.
+- Skriv en **loopinvariant** som förklarar hur koden fungerar.
+- Räkna också ut tidskomplexiteten för din algoritm.
 
 Algoritmen ska vara **in-place** ([Wikipedia: In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)),
 dvs använda högst *O*(1) extra utrymme.
 Du får inte använda någon sorteringsalgoritm.
-
-- Skriv en **loopinvariant** som förklarar hur koden fungerar.
-
-- Räkna också ut tidskomplexiteten för din algoritm.
 
 ## Betyg VG
 
