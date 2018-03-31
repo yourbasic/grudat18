@@ -16,5 +16,5 @@
 
 ### Go
 
-- Funktion med testkod i Go: [uppg2.go](https://github.com/yourbasic/grudat18/blob/master/ovn0/uppg2.go)
-- Klass med testkod i Go: [uppg3.go](https://github.com/yourbasic/grudat18/blob/master/ovn0/uppg3.go)
+- Funktion med testkod: [uppg2.go](https://github.com/yourbasic/grudat18/blob/master/ovn0/uppg2.go)
+- Klass med testkod: [uppg3.go](https://github.com/yourbasic/grudat18/blob/master/ovn0/uppg3.go)
