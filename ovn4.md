@@ -1,4 +1,4 @@
-# Övning 4 grudat18
+# Övning 4 grudat18 (ej klar)
 ### Deadline: 27/4 kl 8.00
 
 Samtliga uppgifter på kursen ska lämnas in på ditt [Githubkonto på KTH](https://gits-15.sys.kth.se/grudat18).
@@ -13,6 +13,33 @@ dina lösningar och din programkod.
 
 ## Betyg G
 
+Beräkna tidskomplexiteten för funktionerna <code>Pow</code> och <code>Sum</code>.
+
+<pre><code>// Pow returns 2**n, where n >= 0.
+func Pow(n int) int {
+	if n == 0 {
+		return 1
+	}
+	x := Pow(n/2)
+	if n%2 == 0 {
+		return x * x
+	}
+	return 2 * x * x
+}
+</code></pre>
+
+<pre><code>// Sum returns the sum of the elements in a.
+func Sum(a []int) int {
+	n := len(a)
+	if n == 0 {
+		return 0
+	}
+	if n == 1 {
+		return a[0]
+	}
+	return Sum(a[:n/2]) + Sum(a[n/2:])
+}
+</code></pre>
 
 ## Betyg VG
 
