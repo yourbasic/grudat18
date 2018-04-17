@@ -13,6 +13,8 @@ dina lösningar och din programkod.
 
 ## Betyg G
 
+### 1 Tidskomplexitet för rekursiva funktioner
+
 Beräkna tidskomplexiteten för funktionerna <code>Pow</code> och <code>Sum</code>.
 
 <pre><code>// Pow returns 2**n, where n >= 0.
