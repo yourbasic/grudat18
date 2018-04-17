@@ -49,7 +49,7 @@ Implementera, dokumentera och testa en algoritm som sorterar talen x<sub>1</sub>
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; k.
 
 Din algoritm ska ha värstafallstidskomplexitet O(n+k).
-För vilka värden på k blir din algoritm linjär?
+För vilka värden på k blir algoritmen linjär?
 
 <b>Tips:</b> räkna hur många element det finns av varje sort.
 
@@ -59,7 +59,7 @@ Designa en algoritm som som sorterar n stycken tal där det förekommer dubblett
 Det totala antalet olika tal är k. Beskriv algoritmen i pseudokod.
 
 Din algoritm ska ha värstafallstidskomplexitet O(n + klog(k)).
-För vilka värden på k blir din algoritm linjär?
+För vilka värden på k blir algoritmen linjär?
 
 ## Betyg VG
 
@@ -67,8 +67,9 @@ För vilka värden på k blir din algoritm linjär?
 
 Designa en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; n<sup>k</sup>.
+Beskriv algoritmen i pseudokod.
 
 Din algoritm ska ha värstafallstidskomplexitet O(kn).
-För vilka värden på k blir din algoritm linjär?
+För vilka värden på k blir algoritmen linjär?
 
 <b>Tips:</b> Hur många bitar finns det i talet n<sup>k</sup>?
