@@ -53,5 +53,13 @@ För vilka värden på k blir din algoritm linjär?
 
 <b>Tips:</b> räkna hur många element det finns av varje sort.
 
+### 3 Sortera på linjär tid när det finns många dubbletter
+
+Designa en algoritm som som sorterar n stycken tal där det förekommer dubbletter.
+Det totala antalet olika tal är k. Beskriv algoritmen i pseudokod.
+
+Din algoritm ska ha värstafallstidskomplexitet O(n + klog(k)).
+För vilka värden på k blir din algoritm linjär?
+
 ## Betyg VG
 
