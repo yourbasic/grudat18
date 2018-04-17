@@ -63,3 +63,12 @@ För vilka värden på k blir din algoritm linjär?
 
 ## Betyg VG
 
+### 4 Linjärtidssortering av ganska stora tal
+
+Designa en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
+För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; n<sup>k</sup>.
+
+Din algoritm ska ha värstafallstidskomplexitet O(kn).
+För vilka värden på k blir din algoritm linjär?
+
+<b>Tips:</b> Hur många bitar finns det i talet n<sup>k</sup>?
