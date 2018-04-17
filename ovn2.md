@@ -81,7 +81,7 @@ Följande metoder ska finnas:
 - Skapa ett tomt träd.
 - Lägg till ett nytt element.
 - Returnera antalet element i trädet.
-- Skriv ut alla element i bokstavsordning.
+- Returnerar en sträng med alla element i bokstavsordning.
 
 *Ange tidskomplexiteten i värstafall för samtliga operationer.*
 
