@@ -72,4 +72,4 @@ Beskriv algoritmen i **pseudokod**.
 Din algoritm ska ha värstafallstidskomplexitet O(kn).
 För vilka värden på k blir algoritmen linjär?
 
-<b>Tips:</b> Använd radixsortering med lagom många pass. Hur många bitar finns det i talet n<sup>k</sup>?
+<b>Tips:</b> Använd [radixsortering](https://www.kth.se/social/files/57bc6a0bf276545600634a78/f16.pdf) med lagom många pass. Hur många bitar finns det i talet n<sup>k</sup>?
