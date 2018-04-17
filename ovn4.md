@@ -49,6 +49,7 @@ Implementera, dokumentera och testa en algoritm som sorterar talen x<sub>1</sub>
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; k.
 
 Din algoritm ska ha värstafallstidskomplexitet O(n+k).
+För vilka värden på k blir din algoritm linjär?
 
 <b>Tips:</b> räkna hur många element det finns av varje sort.
 
