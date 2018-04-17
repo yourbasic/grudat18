@@ -45,10 +45,12 @@ func Sum(a []int) int {
 
 ### 2 Sortera små tal på linjär tid
 
-Implementera en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>,
-där 0&le; x<sub>i</sub> &le; k för alla i. Algoritmen ska ha värstafallstidskomplexitet O(n+k).
+Implementera, dokumentera och testa en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
+För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; k.
 
-Tips: räkna hur många element det finns av varje sort.
+Din algoritm ska ha värstafallstidskomplexitet O(n+k).
+
+<b>Tips:</b> räkna hur många element det finns av varje sort.
 
 ## Betyg VG
 
