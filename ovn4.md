@@ -43,7 +43,7 @@ func Sum(a []int) int {
 }
 </code></pre>
 
-### 2 Sortera små tal på linjär tid
+### 2 Linjärtidssortering av små tal
 
 Implementera, dokumentera och testa en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; k.
@@ -53,7 +53,7 @@ För vilka värden på k blir din algoritm linjär?
 
 <b>Tips:</b> räkna hur många element det finns av varje sort.
 
-### 3 Sortera på linjär tid när det finns många dubbletter
+### 3 Linjärtidssortering när det finns många dubbletter
 
 Designa en algoritm som som sorterar n stycken tal där det förekommer dubbletter.
 Det totala antalet olika tal är k. Beskriv algoritmen i pseudokod.
