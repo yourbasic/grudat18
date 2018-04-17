@@ -45,7 +45,7 @@ func Sum(a []int) int {
 
 ### 2 Linjärtidssortering av små tal
 
-Implementera, dokumentera och testa en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
+**Implementera**, **dokumentera** och **testa** en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; k.
 
 Din algoritm ska ha värstafallstidskomplexitet O(n+k).
