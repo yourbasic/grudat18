@@ -25,12 +25,6 @@ Beräkna tidskomplexiteten för funktionerna <code>pow</code>, <code>sum1</code>
 	if n%2 == 0:
 		return x*x
 	return 2*x*x
-
-# Unit test
-assert pow(0) == 1
-assert pow(1) == 2
-assert pow(2) == 4
-assert pow(3) == 8
 </code></pre>
 
 <pre><code>def sum1(a):
@@ -41,13 +35,7 @@ assert pow(3) == 8
 	if n == 1:
 		return a[0]
 	return sum1(a[:n/2]) + sum1(a[n/2:])
-
-# Unit test
-assert sum1([]) == 0
-assert sum1([1]) == 1
-assert sum1([1, 2]) == 3
-assert sum1([1, 2, 3]) == 6
-assert sum1([1, 2, 3, 4]) == 10
+</code></pre>
 
 <pre><code>def sum2(a):
 	"""Return the sum of the elements in a."""
