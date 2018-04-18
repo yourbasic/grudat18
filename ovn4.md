@@ -15,6 +15,8 @@ dina lösningar och din programkod.
 
 ### 1 Tidskomplexitet för rekursiva funktioner
 
+#### Teori
+
 Beräkna **tidskomplexiteten** för funktionerna <code>pow</code>, <code>sum1</code> och <code>sum2</code>.
 
 <pre><code>def pow(n):
@@ -51,7 +53,9 @@ def _sum(a, i, j):
 	return _sum(a, i, mid) + _sum(a, mid+1, j)
 </code></pre>
 
-Gör också en **benchmark** där du mäter tiden för att exekvera de här funktionerna.
+#### Praktik
+
+Gör en **benchmark** där du mäter tiden för att exekvera de här funktionerna.
 Uppgiften ska göras i **Python** och du ska mäta tiden med funktionen <code>time.time</code>:
 
 <pre><code>start = time.time()
@@ -62,7 +66,9 @@ print(n, time.time() - start) # elapsed time
 Testa för n = 10, 100, 1,000, 10,000, 100,000 och 1,000,000.
 Presentera resultaten av tidmätningarna i en **tabell**.
 
-Skriv också en **diskussionsdel** där du försöker förstå och förklara eventuella skillnader mellan teori och praktik.
+#### Diskussion
+
+Skriv en **diskussionsdel** där du försöker förstå och förklara eventuella skillnader mellan teori och praktik.
 
 
 ### 2 Linjärtidssortering av små tal
