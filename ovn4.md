@@ -62,7 +62,7 @@ print(n, time.time() - start) # elapsed time
 Testa för n = 10, 100, 1,000, 10,000, 100,000 och 1,000,000.
 Presentera resultaten av tidmätningarna i en **tabell**.
 
-Skriv också en kort **diskussion** där du försöker förstå och förklara eventuella skillnader mellan teori och praktik.
+Skriv också en **diskussionsdel** där du försöker förstå och förklara eventuella skillnader mellan teori och praktik.
 
 
 ### 2 Linjärtidssortering av små tal
