@@ -26,7 +26,7 @@ Beräkna **tidskomplexiteten** för funktionerna <code>pow</code>, <code>sum1</c
 </code></pre>
 
 <pre><code>def sum1(a):
-	"""Return the sum of the elements in a."""
+	"""Return the sum of the elements in the list a."""
 	n = len(a)
 	if n == 0:
 		return 0
@@ -36,7 +36,7 @@ Beräkna **tidskomplexiteten** för funktionerna <code>pow</code>, <code>sum1</c
 </code></pre>
 
 <pre><code>def sum2(a):
-	"""Return the sum of the elements in a."""
+	"""Return the sum of the elements in the list a."""
 	return _sum(a, 0, len(a)-1)
 
 def _sum(a, i, j):
