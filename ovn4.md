@@ -82,7 +82,7 @@ För vilka värden på k blir algoritmen linjär?
 Designa en algoritm som som sorterar n stycken tal där det förekommer dubbletter.
 Det totala antalet olika tal är k. Beskriv algoritmen i **pseudokod**.
 
-Din algoritm ska ha värstafallstidskomplexitet O(n + klog(k)).
+Din algoritm ska ha tidskomplexitet O(n + klog(k)). Förväntad tid räcker.
 För vilka värden på k blir algoritmen linjär?
 
 ### 4 Linjärtidssortering av ganska stora tal
@@ -91,7 +91,7 @@ Designa en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; n<sup>k</sup>.
 Beskriv algoritmen i **pseudokod**.
 
-Din algoritm ska ha värstafallstidskomplexitet O(kn).
+Din algoritm ska ha **värstafallstidskomplexitet** O(kn).
 För vilka värden på k blir algoritmen linjär?
 
 <b>Tips:</b> Använd [radixsortering](radix-sort.pdf) med lagom många pass. Hur många bitar finns det i talet n<sup>k</sup>?
