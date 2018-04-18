@@ -15,32 +15,52 @@ dina lösningar och din programkod.
 
 ### 1 Tidskomplexitet för rekursiva funktioner
 
-Beräkna tidskomplexiteten för funktionerna <code>Pow</code> och <code>Sum</code>.
+Beräkna tidskomplexiteten för funktionerna <code>pow</code>, <code>sum1</code> och <code>sum2</code>.
 
-<pre><code>// Pow returns 2**n, where n >= 0.
-func Pow(n int) int {
-	if n == 0 {
+<pre><code>def pow(n):
+	"""Return 2**n, where n >= 0."""
+	if n == 0:
 		return 1
-	}
-	x := Pow(n/2)
-	if n%2 == 0 {
-		return x * x
-	}
-	return 2 * x * x
-}
+	x = pow(n/2)
+	if n%2 == 0:
+		return x*x
+	return 2*x*x
+
+# Unit test
+assert pow(0) == 1
+assert pow(1) == 2
+assert pow(2) == 4
+assert pow(3) == 8
 </code></pre>
 
-<pre><code>// Sum returns the sum of the elements in a.
-func Sum(a []int) int {
-	n := len(a)
-	if n == 0 {
+<pre><code>def sum1(a):
+	"""Return the sum of the elements in a."""
+	n = len(a)
+	if n == 0:
 		return 0
-	}
-	if n == 1 {
+	if n == 1:
 		return a[0]
-	}
-	return Sum(a[:n/2]) + Sum(a[n/2:])
-}
+	return sum1(a[:n/2]) + sum1(a[n/2:])
+
+# Unit test
+assert sum1([]) == 0
+assert sum1([1]) == 1
+assert sum1([1, 2]) == 3
+assert sum1([1, 2, 3]) == 6
+assert sum1([1, 2, 3, 4]) == 10
+
+<pre><code>def sum2(a):
+	"""Return the sum of the elements in a."""
+	return _sum(a, 0, len(a)-1)
+
+def _sum(a, i, j):
+	"""Return the sum of the elements from a[i] to a[j]."""
+	if i > j:
+		return 0
+	if i == j:
+		return a[i]
+	mid = (i+j)/2
+	return _sum(a, i, mid) + _sum(a, mid+1, j)
 </code></pre>
 
 ### 2 Linjärtidssortering av små tal
