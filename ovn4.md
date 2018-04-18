@@ -56,7 +56,7 @@ Uppgiften ska göras i **Python** och du ska mäta tiden med funktionen <code>ti
 
 <pre><code>start = time.time()
 pow(n)
-print(n, time.time() - start)
+print(n, time.time() - start) # elapsed time
 </code></pre>
 
 Testa för n = 10, 100, 1,000, 10,000, 100,000 och 1,000,000.
