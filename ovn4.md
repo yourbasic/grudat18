@@ -19,7 +19,7 @@ Beräkna **tidskomplexiteten** för funktionerna <code>pow</code>, <code>sum1</c
 	"""Return 2**n, where n >= 0."""
 	if n == 0:
 		return 1
-	x = pow(n/2)
+	x = pow(n//2)
 	if n%2 == 0:
 		return x*x
 	return 2*x*x
