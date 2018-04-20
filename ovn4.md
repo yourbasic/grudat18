@@ -32,7 +32,7 @@ Beräkna **tidskomplexiteten** för funktionerna <code>pow</code>, <code>sum1</c
 		return 0
 	if n == 1:
 		return a[0]
-	return sum1(a[:n/2]) + sum1(a[n/2:])
+	return sum1(a[:n//2]) + sum1(a[n//2:])
 </code></pre>
 
 <pre><code>def sum2(a):
@@ -45,7 +45,7 @@ def _sum(a, i, j):
 		return 0
 	if i == j:
 		return a[i]
-	mid = (i+j)/2
+	mid = (i+j)//2
 	return _sum(a, i, mid) + _sum(a, mid+1, j)
 </code></pre>
 
