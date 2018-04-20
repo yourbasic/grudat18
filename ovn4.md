@@ -69,7 +69,7 @@ Skriv en **diskussionsdel** där du försöker förstå och förklara eventuella
 
 ### 2 Linjärtidssortering av små tal
 
-**Implementera**, **dokumentera** och **testa** en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
+**Implementera**, **dokumentera** och **testa** en algoritm som sorterar heltalen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; k.
 
 Din algoritm ska ha värstafallstidskomplexitet O(n+k).
@@ -81,7 +81,7 @@ För vilka värden på k blir algoritmen linjär?
 
 ### 3 Linjärtidssortering när det finns många dubbletter
 
-Designa en algoritm som som sorterar n stycken tal där det förekommer dubbletter.
+Designa en algoritm som som sorterar n stycken heltal där det förekommer dubbletter.
 Det totala antalet olika tal är k. Beskriv algoritmen i **pseudokod**.
 
 Din algoritm ska ha tidskomplexitet O(n + klog(k)). Förväntad tid räcker.
@@ -89,7 +89,7 @@ För vilka värden på k blir algoritmen linjär?
 
 ### 4 Linjärtidssortering av ganska stora tal
 
-Designa en algoritm som sorterar talen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
+Designa en algoritm som sorterar heltalen x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>.
 För samtliga tal x<sub>i</sub> gäller att 0 &le; x<sub>i</sub> &le; n<sup>k</sup>.
 Beskriv algoritmen i **pseudokod**.
 
