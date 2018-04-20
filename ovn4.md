@@ -16,7 +16,7 @@ dina lösningar och din programkod.
 Beräkna **tidskomplexiteten** för funktionerna <code>pow</code>, <code>sum1</code> och <code>sum2</code>.
 
 <pre><code>def pow(n):
-	"""Return 2**n, where n >= 0."""
+	"""Return 2**n, where n is a nonnegative integer."""
 	if n == 0:
 		return 1
 	x = pow(n//2)
