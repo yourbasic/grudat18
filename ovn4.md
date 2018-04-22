@@ -96,4 +96,6 @@ Beskriv algoritmen i **pseudokod**.
 Din algoritm ska ha **värstafallstidskomplexitet** O(kn).
 För vilka värden på k blir algoritmen linjär?
 
-<b>Tips:</b> Använd [radixsortering](radix-sort.pdf) med lagom många pass. Hur många bitar finns det i talet n<sup>k</sup>?
+<b>Tips:</b> Använd [radixsortering](radix-sort.pdf) med lagom många pass.
+Du kan anta att talen representeras binärt.
+Hur många bitar finns det i talet n<sup>k</sup>?
