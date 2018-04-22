@@ -18,7 +18,7 @@ både **dokumentation** och **testkod**.
 Din kod ska dessutom uppfylla **de fem grundkraven** i den här
 texten om [mjukvarukonstruktion](http://yourbasic.org/algorithms/your-basic-api/).
 
-### Inlämning API och dokumentation
+### Inlämning av API och dokumentation
 
 En första version av API och övrig dokumentation ska vara klar till övning 6,
 onsdag 9/5 kl&nbsp;13.00. Du kommer då att få presentera ditt projekt för övriga medlemmar
