@@ -1,6 +1,8 @@
 # Individuellt projekt grudat18
 ### Deadline: 16/5 kl 15.00
 
+> "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures."<br> - Kent Beck
+
 Du ska skriva ett litet programbibliotek som kan vara användbart för andra.
 Projektet ska genomföras **individuellt**.
 
