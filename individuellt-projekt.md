@@ -6,7 +6,7 @@ Projektet ska genomföras **individuellt**.
 
 Du får själv välja om koden ska handla om **matematik**, **fysik** eller **datalogi**.
 Projektet ska innehålla minst ett par hundra rader kod, inklusive testkod.
-(Om projektet består av flera tusen rader så är det å andra sidan för stort.)
+(Om projektet är över tusen rader så är det å andra sidan för stort.)
 
 [githut.com/yourbasic/fenwick](https://github.com/yourbasic/fenwick) är ett
 exempel på ett lagom stort projekt.
