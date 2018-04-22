@@ -17,4 +17,9 @@ Besök noderna i den här grafen i DFS- och BFS-ordning.
 I vilken ordning besöks noderna i de två fallen?
 Du kan anta att grannarna till en nod besöks i nummerordning.
 
+### Datastruktur och tidskomplexitet
+
+Tidskomplexiteten för DFS blir i vissa fall mycket bättre om man använder närhetslistor i stället för en närhetsmatris.
+Varför då? För vilken typ av grafer blir den asymptotiska tidskomplexiteten den samma i båda fallen?
+
 ## Betyg VG
