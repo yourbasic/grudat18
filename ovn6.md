@@ -5,7 +5,8 @@ Reguljära uttryck och deras varianter är mycket praktiska vid vardaglig progra
 ska du konstruera reguljära uttryck för lite olika strängsökningsproblem.
 
 - Vid övningen ska du som vanligt vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
-- Den här gången ska du testa dina lösningar på Kattis innan du lämnar in dem på ditt githubkonto.
+- Den här gången ska du testa dina lösningar på [Kattis](https://kth.kattis.com/help)
+  innan du lämnar in dem på ditt githubkonto.
 - I din skriftliga inlämning ska du enbart lämna in de reguljära uttrycken (inte Pythonkoden)
   tillsammans med en **kort beskrivning** som förklarar hur uttrycken fungerar.
 
