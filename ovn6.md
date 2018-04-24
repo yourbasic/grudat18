@@ -11,6 +11,8 @@ dina lösningar och din programkod.
 
 *Den här gången ska du testa dina lösningar på Kattis innan du lämnar in dem på ditt githubkonto.*
 
+Använd kodmallen [s1.py](s1.py).
+
 ## Betyg G
 
 ### dna
