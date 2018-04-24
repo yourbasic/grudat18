@@ -7,9 +7,9 @@ Gör (minst) en fil per uppgift och lägg filerna i katalogen /grudat18/ovn6.
 Vid övningen ska du vara beredd att muntligt presentera och diskutera
 dina lösningar och din programkod.
 
-### Problem-ID på Kattis: [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
-
 *Den här gången ska du testa dina lösningar på Kattis innan du lämnar in dem på ditt githubkonto.*
+
+### Kattis uppgift [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
 
 Reguljära uttryck och deras varianter är mycket praktiska vid vardaglig programmering. På denna övning
 ska du konstruera reguljära uttryck för lite olika strängsökningsproblem.
@@ -38,7 +38,7 @@ kommer din lösning att få Time Limit Exceeded.
 I uppgifter där kravet är att hela strängen ska uppfylla något villkor så måste du använda
 de speciella regex-symbolerna “^” och “$”. Du kan läsa mer
 om dessa, samt om vilken regex-funktionalitet som finns i Python i allmänhet,
-i [dokumnentationen för Pythons re-bibliotek](https://docs.python.org/2/library/re.html).
+i [dokumentationen för Pythons re-bibliotek](https://docs.python.org/2/library/re.html).
 
 Uppgifterna är sorterade efter kursledarens åsikt om deras svårighetsgrad, och Kattis
 kommer att testa uppgifterna i samma ordning. När du är klar med första uppgiften
@@ -91,13 +91,15 @@ första talet är positivt eller negativt (matchande exempel 2, 3, 5 nedan), men
 tal i mitten av uttryck (icke-matchande exempel 2 nedan). En ekvation är två uttryck separerade
 av ett likhetstecken. Bara ett likhetstecken kan förekomma (icke-matchande exempel 4 nedan).
 
-  Strängar som ska matchas    Strängar som inte ska matchas
+```
+Strängar som ska matchas    Strängar som inte ska matchas
 
-  1589+232                    5*x
-  -12*53+1-2/5                18/-35
-  18=+17/25                   *23
-  000=0                       7=7=7
-  +1+2+3=-5*2/3               3.14159265358
+1589+232                    5*x
+-12*53+1-2/5                18/-35
+18=+17/25                   *23
+000=0                       7=7=7
++1+2+3=-5*2/3               3.14159265358
+```
 
 ## Valfria extrauppgifter (påverkar ej betyg)
 
