@@ -1,18 +1,17 @@
 # Övning 6 grudat18 (ej klar)
 ### Deadline: 9/5 kl 13.00
 
-Samtliga uppgifter på kursen ska lämnas in på ditt [Githubkonto på KTH](https://gits-15.sys.kth.se/grudat18).
-Gör (minst) en fil per uppgift och lägg filerna i katalogen /grudat18/ovn6.
-
-Vid övningen ska du vara beredd att muntligt presentera och diskutera
-dina lösningar och din programkod.
-
-*Den här gången ska du testa dina lösningar på Kattis innan du lämnar in dem på ditt githubkonto.*
-
-### Kattis uppgift [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
-
 Reguljära uttryck och deras varianter är mycket praktiska vid vardaglig programmering. På denna övning
 ska du konstruera reguljära uttryck för lite olika strängsökningsproblem.
+
+- Vid övningen ska du som vanligt vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
+- Den här gången ska du testa dina lösningar på Kattis innan du lämnar in dem på ditt githubkonto.
+- I din skriftliga inlämning ska du enbart lämna in de reguljära uttrycken (inte Pythonkoden)
+  tillsammans med en **kort beskrivning** som förklarar hur uttrycken fungerar.
+
+### Kattis
+
+#### Uppgift [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
 
 Dina funktioner måste ligga i en fil som heter s1.py annars kommer du få Run Time Error (“ImportError”) i Kattis.
 Använd kodskelettet [s1.py](s1.py), i vilket ett flertal funktioner definieras.
@@ -25,18 +24,18 @@ Kodskelettet innehåller även lite kod för att testa din lösning,
 se kommentarer i kodskelettet för hur du kan gå tillväga med detta.
 
 I två av uppgifterna ska det reguljära uttryck du konstruerar bero på en söksträng som skickas som
-indata. Här kan du behöva skriva lite minimal Python-kod.
+indata. Här kan du behöva skriva lite Python-kod.
 
-De regexp du konstruerar får vara högst 250 tecken långa (detta är en generöst tilltagen gräns),
+De uttryck du konstruerar får vara högst 250 tecken långa (detta är en generöst tilltagen gräns),
 förutom i de två uppgifterna som tar en söksträng som indata.
 Om du i någon av de andra uppgifterna returnerar
-ett för långt regexp kommer din inskickning att få ett Run Time Error i Kattis.
+ett för långt uttryck så kommer din inskickning att få ett Run Time Error i Kattis.
 I de två uppgifterna med en söksträng som indata finns ingen specifik övre gräns
-på hur långt ditt regex får vara, men om det är för långt och komplicerat
+på hur långt ditt uttryck får vara, men om det är för långt och komplicerat
 kommer din lösning att få Time Limit Exceeded.
 
 I uppgifter där kravet är att hela strängen ska uppfylla något villkor så måste du använda
-de speciella regex-symbolerna “^” och “$”. Du kan läsa mer
+de speciella symbolerna ^ och $. Du kan läsa mer
 om dessa, samt om vilken regex-funktionalitet som finns i Python i allmänhet,
 i [dokumentationen för Pythons re-bibliotek](https://docs.python.org/2/library/re.html).
 
