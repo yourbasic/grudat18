@@ -26,11 +26,11 @@ def sorted3():      # uppgift 7
     return ""
 
 
-# Här är lite testkod som du kan använda för att provköra dina
+# Här är lite kod som du kan använda för att provköra dina
 # reguljära uttryck. Koden definierar en main-metod som läser
 # rader från standard input och kollar vilka reguljära uttryck
-# som matchar indata-raden. För de två hidden-uppgifterna används
-# söksträngen x="test" (kan lätt ändras nedan).
+# som matchar indata-raden. För de två hidden-uppgifterna
+# används söksträngen x="test" (kan lätt ändras).
 #
 # För att provköra från terminalen, skriv:
 # > python s1.py
