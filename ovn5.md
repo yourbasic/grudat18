@@ -4,8 +4,7 @@
 Samtliga uppgifter på kursen ska lämnas in på ditt [Githubkonto på KTH](https://gits-15.sys.kth.se/grudat18).
 Gör (minst) en fil per uppgift och lägg filerna i katalogen /grudat18/ovn5.
 
-Vid övningen ska du vara beredd att muntligt presentera och diskutera
-dina lösningar och din programkod.
+Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar.
 
 ## Betyg G
 
