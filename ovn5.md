@@ -35,3 +35,16 @@ Tidskomplexiteten för DFS blir i vissa fall mycket bättre om man använder nä
 Varför då? För vilken typ av grafer blir den asymptotiska tidskomplexiteten för DFS den samma för båda datastrukturerna?
 
 ## Betyg VG
+
+### 4. En noggrann lärare
+
+En plikttrogen lärare vill dela ut uppgifter till sina elever så att inga som känner varandra får samma uppgift.
+Läraren är optimist – och dessutom lite lat – så han tror att det räcker med två uppgifter.
+Designa en algoritm som testar om det stämmer.
+
+Modellera problemet med en graf där varje hörn motsvarar en elev.
+Grafen har kanter mellan de hörn som motsvarar elever som känner varandra.
+Algoritmen ska baseras på en metodisk genomgång av grafen med BFS eller DFS.
+
+- Beskriv din algorithm i pseudokod.
+- Beräkna också tidskomplexiteten.
