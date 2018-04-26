@@ -67,9 +67,6 @@ delsträng i s. Om söksträngen x är “progp” ska alltså t.ex. strängarna
 “progprogp” matchas, men inte “PROGP”, “programmeringsparadigm”, eller “inda”. Du kan anta
 att indatasträngen x bara består av bokstäver och siffror.
 
-
-## Betyg VG
-
 ### 4. Sök efter given sträng – del 2
 
 I den här uppgiften kan du ha användning av metoden [string.join](https://docs.python.org/2/library/stdtypes.html#str.join) ([exempel](http://www.tutorialspoint.com/python/string_join.htm)).
@@ -78,6 +75,8 @@ delsekvens i s, dvs om vi genom att ta bort några tecken ur s kan bilda x. Om s
 “progp” ska alltså alla strängar som matchade i exemplet för del 1 fortfarande matcha, men nu ska
 även t.ex. “programmeringsparadigm” och “p r o g p” matcha (men inte “inda” eller “poprg”). Du
 kan anta att indatasträngen x bara består av bokstäver och siffror.
+
+## Betyg VG
 
 ### 5. Ekvationer utan parenteser
 
