@@ -45,5 +45,5 @@ Modellera problemet med en graf där varje hörn motsvarar en elev.
 Grafen har kanter mellan de hörn som motsvarar elever som känner varandra.
 Algoritmen ska baseras på en metodisk genomgång av grafen med BFS eller DFS.
 
-- Beskriv din algorithm i pseudokod.
+- Beskriv din algoritm i pseudokod.
 - Beräkna också tidskomplexiteten.
