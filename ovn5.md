@@ -11,13 +11,17 @@ dina lösningar och din programkod.
 
 ### 1. Rita grafer
 
-- Rita alla enkla sammanhängande grafer med 4 hörn i vilka samliga hörn har gradtal 1.
-- Rita alla enkla sammanhängande grafer med 4 hörn i vilka samliga hörn har gradtal 2.
-- Rita alla enkla sammanhängande grafer med 4 hörn i vilka samliga hörn har gradtal 3.
+- Rita alla enkla sammanhängande grafer med hörnen 1, 2, 3, 4, där samliga hörn har gradtal 1.
+- Rita alla enkla sammanhängande grafer med hörnen 1, 2, 3, 4, där samliga hörn har gradtal 2.
+- Rita alla enkla sammanhängande grafer med hörnen 1, 2, 3, 4, där samliga hörn har gradtal 3.
 
 ### 2. Räkna kanter
 
-Hur många kanter kan det som mest finnas i en enkel graf med n stycken hörn? Motivera ditt svar.
+- Hur många kanter kan det som mest finnas i en graf med n stycken hörn?
+- Hur många kanter kan det som mest finnas i en enkel graf med n stycken hörn?
+- Hur många kanter kan det som mest finnas i ett träd med n stycken hörn?
+
+Motivera dina svar.
 
 ### 3. DFS och BFS
 
