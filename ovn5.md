@@ -9,14 +9,17 @@ dina lösningar och din programkod.
 
 ## Betyg G
 
-### 1. Räkna grafer
+### 1. Rita grafer
 
-- Rita alla enkla sammanhängande grafer med 1 kant och hörnen 1, 2 och 3.
-- Rita alla enkla sammanhängande grafer med 2 kanter och hörnen 1, 2 och 3.
-- Rita alla enkla sammanhängande grafer med 3 kanter och hörnen 1, 2 och 3.
-- Hur många kanter kan det som mest finnas i en enkel graf med n stycken hörn? Motivera ditt svar.
+- Rita alla enkla sammanhängande grafer med 4 hörn i vilka samliga hörn har gradtal 1.
+- Rita alla enkla sammanhängande grafer med 4 hörn i vilka samliga hörn har gradtal 2.
+- Rita alla enkla sammanhängande grafer med 4 hörn i vilka samliga hörn har gradtal 3.
 
-### 2. DFS och BFS
+### 2. Räkna kanter
+
+Hur många kanter kan det som mest finnas i en enkel graf med n stycken hörn? Motivera ditt svar.
+
+### 3. DFS och BFS
 
 ![Connected graph with 6 nodes](http://yourbasic.org/algorithms/graph2.png)
 
