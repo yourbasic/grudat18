@@ -9,7 +9,14 @@ dina lösningar och din programkod.
 
 ## Betyg G
 
-### 1. DFS och BFS
+### 1. Räkna grafer
+
+- Rita alla enkla sammanhängande grafer med 1 kant och hörnen 1, 2 och 3.
+- Rita alla enkla sammanhängande grafer med 2 kanter och hörnen 1, 2 och 3.
+- Rita alla enkla sammanhängande grafer med 3 kanter och hörnen 1, 2 och 3.
+- Hur många kanter kan det som mest finnas i en enkel graf med n stycken hörn? Motivera ditt svar.
+
+### 2. DFS och BFS
 
 ![Connected graph with 6 nodes](http://yourbasic.org/algorithms/graph2.png)
 
@@ -18,6 +25,6 @@ I vilken ordning besöks noderna i de två fallen?
 Du kan anta att grannarna till en nod besöks i nummerordning.
 
 Tidskomplexiteten för DFS blir i vissa fall mycket bättre om man använder närhetslistor i stället för en närhetsmatris.
-Varför då? För vilken typ av grafer blir den asymptotiska tidskomplexiteten den samma för båda datastrukturerna?
+Varför då? För vilken typ av grafer blir den asymptotiska tidskomplexiteten för DFS den samma för båda datastrukturerna?
 
 ## Betyg VG
