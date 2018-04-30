@@ -45,7 +45,7 @@ def main():
     def hidden1_test(): return hidden1('test')
     def hidden2_test(): return hidden2('test')
     tasks = [dna, sorted, hidden1_test, hidden2_test, equation, parentheses, sorted3]
-    print('Skriv in teststrÃ¤ngar:')
+    print('Skriv in teststrängar:')
     while True:
         line = stdin.readline().rstrip('\r\n')
         if line == '': break
