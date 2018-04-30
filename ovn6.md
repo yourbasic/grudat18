@@ -3,7 +3,8 @@
 
 > Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems.
 
-Reguljära uttryck och deras varianter är mycket praktiska vid vardaglig programmering. På denna övning
+[Reguljära uttryck](http://yourbasic.org/golang/regexp-cheat-sheet/)
+och deras varianter är mycket praktiska vid vardaglig programmering. På denna övning
 ska du konstruera reguljära uttryck för lite olika strängsökningsproblem.
 
 - Vid övningen ska du som vanligt vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
