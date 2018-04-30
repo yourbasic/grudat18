@@ -17,13 +17,10 @@ ska du konstruera reguljära uttryck för några olika strängsökningsproblem.
 
 Dina funktioner måste ligga i en fil som heter s1.py annars kommer du få Run Time Error (“ImportError”) i Kattis.
 Använd kodskelettet [s1.py](s1.py), i vilket ett flertal funktioner definieras.
+
 Alla funktionerna i skelettet returnerar en tom sträng,
 men de ska i din lösning returnera strängar som innehåller olika
 regex för att lösa de olika deluppgifterna nedan.
-T.ex. ska alltså den första funktionen, dna(), returnera ett regex för att matcha DNA-sekvenser.
-Kodskelettet innehåller även lite kod för att testa din lösning,
-se kommentarer i kodskelettet för hur du kan gå tillväga med detta.
-
 I två av uppgifterna ska det reguljära uttryck du konstruerar bero på en söksträng som skickas som
 indata. Här kan du behöva skriva lite Python-kod.
 
