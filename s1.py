@@ -1,6 +1,6 @@
 # coding: utf-8
 
-# Du ska skriva de här funktionerna för att lösa uppgifterna på övningen.
+# De här funktionerna ska returnera reguljära uttryck som löser uppgifterna på övningen.
 
 def dna():          # uppgift 1
     return ""
