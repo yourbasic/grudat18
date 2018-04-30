@@ -22,8 +22,7 @@ Använd kodskelettet [s1.py](s1.py), i vilket ett flertal funktioner definieras.
 Alla funktionerna i skelettet returnerar en tom sträng,
 men de ska i din lösning returnera strängar som innehåller olika
 regex för att lösa de olika deluppgifterna nedan.
-T.ex. ska alltså den första funktionen, dna(), returnera
-ett regex för att matcha DNA-sekvenser.
+T.ex. ska alltså den första funktionen, dna(), returnera ett regex för att matcha DNA-sekvenser.
 Kodskelettet innehåller även lite kod för att testa din lösning,
 se kommentarer i kodskelettet för hur du kan gå tillväga med detta.
 
@@ -39,12 +38,9 @@ på hur långt ditt uttryck får vara, men om det är för långt och komplicera
 kommer din lösning att få Time Limit Exceeded.
 
 I uppgifter där kravet är att hela strängen ska uppfylla något villkor så måste du använda
-de speciella symbolerna ^ och $. Du kan läsa mer
-om dessa, samt om vilken regex-funktionalitet som finns i Python i allmänhet,
-i [dokumentationen för Pythons re-bibliotek](https://docs.python.org/2/library/re.html).
+de speciella symbolerna ^ och $.
 
-Uppgifterna är sorterade efter kursledarens åsikt om deras svårighetsgrad, och Kattis
-kommer att testa uppgifterna i samma ordning. När du är klar med första uppgiften
+Kattis kommer att testa uppgifterna i ordning. När du är klar med första uppgiften
 kan du alltså skicka in din lösning och se om du klarar alla testfall som hör
 till första uppgiften, och så vidare.
 
