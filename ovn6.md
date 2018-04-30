@@ -15,19 +15,16 @@ ska du konstruera reguljära uttryck för några olika strängsökningsproblem.
 
 #### Uppgift [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
 
-Dina funktioner måste ligga i en fil som heter s1.py annars kommer du få Run Time Error (“ImportError”) i Kattis.
-Använd kodskelettet [s1.py](s1.py), i vilket ett flertal funktioner definieras.
+Dina funktioner måste ligga i en fil som heter s1.py, annars får du Run Time Error (“ImportError”) i Kattis.
 
-Alla funktionerna i skelettet returnerar en tom sträng,
-men de ska i din lösning returnera strängar som innehåller olika
-regex för att lösa de olika deluppgifterna nedan.
+Använd kodskelettet [s1.py](s1.py). Funktionerna i skelettet returnerar alla en tom sträng,
+men de ska i din lösning returnera strängar som innehåller reguljära uttryck som löser deluppgifterna nedan.
 I två av uppgifterna ska det reguljära uttryck du konstruerar bero på en söksträng som skickas som
-indata. Här kan du behöva skriva lite Python-kod.
+indata.
 
-De uttryck du konstruerar får vara högst 250 tecken långa (detta är en generöst tilltagen gräns),
+De uttryck du konstruerar får vara högst 250 tecken långa (en generöst tilltagen gräns),
 förutom i de två uppgifterna som tar en söksträng som indata.
-Om du i någon av de andra uppgifterna returnerar
-ett för långt uttryck så kommer din inskickning att få ett Run Time Error i Kattis.
+Om du i någon av de andra uppgifterna returnerar ett för långt uttryck så får du ett Run Time Error i Kattis.
 I de två uppgifterna med en söksträng som indata finns ingen specifik övre gräns
 på hur långt ditt uttryck får vara, men om det är för långt och komplicerat
 kommer din lösning att få Time Limit Exceeded.
@@ -61,7 +58,9 @@ att indatasträngen x bara består av bokstäver och siffror.
 
 ### 4. Sök efter given sträng – del 2
 
-I den här uppgiften kan du ha användning av metoden [string.join](https://docs.python.org/2/library/stdtypes.html#str.join) ([exempel](http://www.tutorialspoint.com/python/string_join.htm)).
+I den här uppgiften kan du ha användning av metoden
+[string.join](https://docs.python.org/2/library/stdtypes.html#str.join)
+([exempel](http://www.tutorialspoint.com/python/string_join.htm)).
 Skriv ett regex som matchar en sträng s om och endast en given söksträng x förekommer som
 delsekvens i s, dvs om vi genom att ta bort några tecken ur s kan bilda x. Om söksträngen x är
 “progp” ska alltså alla strängar som matchade i exemplet för del 1 fortfarande matcha, men nu ska
