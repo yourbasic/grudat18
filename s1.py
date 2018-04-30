@@ -25,7 +25,6 @@ def parentheses():  # uppgift 6
 def sorted3():      # uppgift 7
     return ""
 
-
 # Här är lite kod som du kan använda för att provköra dina
 # reguljära uttryck. Koden definierar en main-metod som läser
 # rader från standard input och kollar vilka reguljära uttryck
@@ -53,5 +52,4 @@ def main():
             result = '' if re.search(task(), line) else 'INTE ' 
             print('%s(): "%s" matchar %suttrycket "%s"' % (task.__name__, line, result, task()))
     
-
 if __name__ == '__main__': main()
