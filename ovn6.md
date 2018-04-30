@@ -80,7 +80,7 @@ kan anta att indatasträngen x bara består av bokstäver och siffror.
 
 ### 5. Ekvationer utan parenteser
 
-Eftersom reguljära uttryck (och även regex) inte kan användas för att kolla om en uppsättning
+Eftersom reguljära uttryck inte kan användas för att kolla om en uppsättning
 parenteser är balanserade så kan vi inte skriva regex för att matcha allmänna ekvationer. Men vi
 kan skriva ett regex för att matcha aritmetiska uttryck och ekvationer som inte tillåts innehålla
 parenteser, och det ska vi göra nu.
