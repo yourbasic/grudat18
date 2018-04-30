@@ -83,8 +83,9 @@ första talet är positivt eller negativt (matchande exempel 2, 3, 5 nedan), men
 tal i mitten av uttryck (icke-matchande exempel 2 nedan). En ekvation är två uttryck separerade
 av ett likhetstecken. Bara ett likhetstecken kan förekomma (icke-matchande exempel 4 nedan).
 
-Tänk på att vissa av tecknen +, -, &#42;, / har speciell betydelse i reguljära uttryck
-och att du måste använda \ för att de ska tolkas bokstavligt. Se [Sppecial characters](http://yourbasic.org/golang/regexp-cheat-sheet/#special-characters).
+Tänk på att tecknen +, -, &#42; har speciell betydelse i reguljära uttryck
+och att du måste använda \ för att de ska tolkas bokstavligt.
+Se [Sppecial characters](http://yourbasic.org/golang/regexp-cheat-sheet/#special-characters).
 
 ```
 Strängar som ska matchas    Strängar som inte ska matchas
