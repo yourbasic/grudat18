@@ -22,5 +22,5 @@ Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lös
 - [Övning 3](https://github.com/yourbasic/grudat18/blob/master/ovn3.md)
 - [Övning 4](https://github.com/yourbasic/grudat18/blob/master/ovn4.md)
 - [Övning 5](https://github.com/yourbasic/grudat18/blob/master/ovn5.md)
--
+- [Övning 6](https://github.com/yourbasic/grudat18/blob/master/ovn6.md)
 - Övning 7: [Individuellt projekt](https://github.com/yourbasic/grudat18/blob/master/individuellt-projekt.md)
