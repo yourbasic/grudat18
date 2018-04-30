@@ -9,7 +9,7 @@ ska du konstruera reguljära uttryck för några olika strängsökningsproblem.
 - Den här gången ska du testa dina lösningar på [Kattis](https://kth.kattis.com/help)
   innan du lämnar in dem på ditt githubkonto.
 - I din skriftliga inlämning ska du enbart lämna in de reguljära uttrycken (inte Pythonkoden)
-  tillsammans med en kort **beskrivning** som förklarar hur uttrycken fungerar.
+  tillsammans med en kort beskrivning som **förklarar hur uttrycken fungerar**.
 
 ### Kattis
 
