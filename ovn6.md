@@ -56,7 +56,7 @@ av tecknen ACGT (endast stora bokstäver, ej acgt).
 
 ### 2. Sorterade tal
 
-Skriv ett regex som matchar en sträng över tecknen 0-9 om och endast om tecknen strängen
+Skriv ett regex som matchar en sträng över tecknen 0-9 om och endast om tecknen i strängen
 är sorterade i fallande ordning. Till exempel ska “42”, “9876543210”, och “000” matchas, men
 “4711”, “11119”, “123”, och “777a” inte matchas.
 
