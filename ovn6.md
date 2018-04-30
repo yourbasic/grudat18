@@ -1,8 +1,6 @@
 # Övning 6 grudat18 (ej klar)
 ### Deadline: 9/5 kl 13.00
 
-> Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems.
-
 [Reguljära uttryck](http://yourbasic.org/golang/regexp-cheat-sheet/)
 och deras varianter är mycket praktiska vid vardaglig programmering. På denna övning
 ska du konstruera reguljära uttryck för lite olika strängsökningsproblem.
