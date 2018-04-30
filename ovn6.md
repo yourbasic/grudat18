@@ -115,6 +115,6 @@ Skriv ett regex som matchar en sträng över tecknen 0-9 om och endast om det fi
 siffror någonstans i talet som är sorterade i strikt stigande ordning. Till exempel ska
 “123”, “9876456000”, “123456789” och “91370” matcha, men “111”, “415263”, “xyz123xyz” ska inte matchas.
 
-(Tips: börja med att skriva ett reguljärt uttryck för tre siffror i stigande ordning där den mittersta
-siffran är t.ex. “4”, och fundera sedan på hur detta kan användas.)
+Tips: börja med att skriva ett reguljärt uttryck för tre siffror i stigande ordning där den mittersta
+siffran är t.ex. “4”, och fundera sedan på hur detta kan användas.
 
