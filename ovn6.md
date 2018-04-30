@@ -1,4 +1,4 @@
-# Övning 6 grudat18 (ej klar)
+# Övning 6 grudat18
 ### Deadline: 9/5 kl 13.00
 
 [Reguljära uttryck](http://yourbasic.org/golang/regexp-cheat-sheet/)
